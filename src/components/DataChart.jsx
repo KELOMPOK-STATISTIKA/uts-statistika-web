@@ -100,7 +100,7 @@ export default function DataChart({ data }) {
             <Bar
               dataKey="frekuensi"
               name="Jumlah Data (Frekuensi)"
-              fill="#10b981"
+              fill="#1d4ed8"
               radius={[6, 6, 0, 0]}
             />
           </BarChart>
